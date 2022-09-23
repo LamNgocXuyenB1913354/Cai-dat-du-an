@@ -1,0 +1,23 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LamNgocXuyenB1913354/Cai-dat-du-an.git"
+  },
+  "author": "LamNgocXuyenB1913354",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LamNgocXuyenB1913354/Cai-dat-du-an/issues"
+  },
+  "homepage": "https://github.com/LamNgocXuyenB1913354/Cai-dat-du-an#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
